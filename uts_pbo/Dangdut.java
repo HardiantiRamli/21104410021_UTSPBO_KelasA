@@ -6,7 +6,7 @@ package uts_pbo;
 
 /**
  *
- * @author hardi
+ * @author hardianti
  */
 public class Dangdut {
     String penyanyi ="Ayu Ting Ting";

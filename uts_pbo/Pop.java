@@ -30,8 +30,8 @@ public class Pop {
         this.lagu = lagu;
     }
     
-    private Void cetakLabel(){
-       System.out.println(this.Penyanyi+" <=> "+this.lagu);
+    public void cetakLabel(){
+        System.out.println(this.Penyanyi+" <=> "+this.lagu);
     }
 }
 
